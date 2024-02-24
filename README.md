@@ -10,7 +10,7 @@
 **Токены, секреты и прочая конфигурация лежит в config.py**
 
 **Если Linux** <br>
-sudo apt-get install libpq-dev
+sudo apt-get install libpq-dev <br>
 python3 -m pip install psycopg2-binary<br>
 
 **БД: PostgreSQL** <br>

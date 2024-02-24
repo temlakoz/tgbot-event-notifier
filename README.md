@@ -27,9 +27,10 @@ python3 -m pip install -r requirements.txt
 python3 run.py
 
 <br>
-![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/795d31e4-1b24-43a0-85e6-fc21ccfc5dd6)
-<br>
-![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/8d7a5b98-bf96-4ccc-844d-72eb1489c833)
-<br>
-![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/de289a0c-a67b-4c15-b2ac-b92dc0fa9a2b)
-<br>
+![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/b7de9001-6ef9-40a5-8acf-11e7edb7d7b5)
+
+![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/60a257e1-095c-401b-9724-cd36d57c16c2)
+
+![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/8d9327dd-6078-4a45-8d8f-514048942708)
+
+

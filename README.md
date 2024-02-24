@@ -1,3 +1,7 @@
+**Написан на python3 с использованием aiogram 3**
+![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/795d31e4-1b24-43a0-85e6-fc21ccfc5dd6)
+
+
 
 **Если Linux** <br>
 sudo apt-get install libpq-dev

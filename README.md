@@ -2,6 +2,12 @@
 <br><br>
 
 ![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/795d31e4-1b24-43a0-85e6-fc21ccfc5dd6)
+<br>
+![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/8d7a5b98-bf96-4ccc-844d-72eb1489c833)
+<br>
+![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/de289a0c-a67b-4c15-b2ac-b92dc0fa9a2b)
+<br>
+
 
 <br>
 События добавляются по названию и дате, просроченные по дате события не отображаются, но остаются в БД. При просмотре и рассылке события отображаются в отсортированном по дате виде.

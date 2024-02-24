@@ -7,7 +7,6 @@ python3 -m pip install psycopg2-binary<br>
 psql -U postgres 
 CREATE DATABASE ctf_events WITH ENCODING='UTF8' LC_COLLATE='en_US.utf8' LC_CTYPE='en_US.utf8' TEMPLATE=template0;
 
-<br>
 
 **Запуск**
 <br>

@@ -1,12 +1,7 @@
 **Написан на python3 с использованием aiogram 3** 
-<br><br>
+<br>
 
-![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/795d31e4-1b24-43a0-85e6-fc21ccfc5dd6)
-<br>
-![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/8d7a5b98-bf96-4ccc-844d-72eb1489c833)
-<br>
-![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/de289a0c-a67b-4c15-b2ac-b92dc0fa9a2b)
-<br>
+
 
 
 <br>
@@ -30,3 +25,11 @@ python3 -m venv venv
 source .venv/bin/activate
 python3 -m pip install -r requirements.txt
 python3 run.py
+
+<br>
+![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/795d31e4-1b24-43a0-85e6-fc21ccfc5dd6)
+<br>
+![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/8d7a5b98-bf96-4ccc-844d-72eb1489c833)
+<br>
+![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/de289a0c-a67b-4c15-b2ac-b92dc0fa9a2b)
+<br>

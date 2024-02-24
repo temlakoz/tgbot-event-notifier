@@ -21,12 +21,11 @@ CREATE DATABASE ctf_events WITH ENCODING='UTF8' LC_COLLATE='en_US.utf8' LC_CTYPE
 
 **Запуск**
 <br>
-python3 -m venv venv
-source .venv/bin/activate
-python3 -m pip install -r requirements.txt
-python3 run.py
+python3 -m venv venv <br>
+source .venv/bin/activate <br>
+python3 -m pip install -r requirements.txt <br>
+python3 run.py <br>
 
-<br>
 
 
 ![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/60a257e1-095c-401b-9724-cd36d57c16c2)

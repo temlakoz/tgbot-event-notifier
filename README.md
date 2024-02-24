@@ -14,11 +14,12 @@
 **Если Linux** <br>
 sudo apt-get install libpq-dev <br>
 python3 -m pip install psycopg2-binary<br>
+<br>
 
 **БД: PostgreSQL** <br>
 psql -U postgres 
 CREATE DATABASE ctf_events WITH ENCODING='UTF8' LC_COLLATE='en_US.utf8' LC_CTYPE='en_US.utf8' TEMPLATE=template0;
-
+<br><br>
 
 **Запуск**
 <br>

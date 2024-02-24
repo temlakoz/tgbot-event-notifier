@@ -28,10 +28,11 @@ python3 run.py
 
 <br>
 
-![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/b7de9001-6ef9-40a5-8acf-11e7edb7d7b5)
 
 ![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/60a257e1-095c-401b-9724-cd36d57c16c2)
 
 ![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/8d9327dd-6078-4a45-8d8f-514048942708)
+
+![image](https://github.com/temlakoz/tgbot-event-notifier/assets/44872170/b7de9001-6ef9-40a5-8acf-11e7edb7d7b5)
 
 

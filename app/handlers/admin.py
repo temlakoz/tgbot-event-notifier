@@ -151,10 +151,10 @@ async def powerchange(message: Message, state: FSMContext):
     power_state = db.get_notifier_state()
     if power_state:
         db.set_notifier_state(False)
-        await message.answer("Рассылка включена на каждый четверг 12:00 по МСК", reply_markup=keyboard.main)
+        await message.answer("Рассылка выключена", reply_markup=keyboard.main)
     else:
         db.set_notifier_state(True)
-        await message.answer("Рассылка выключена", reply_markup=keyboard.main)
+        await message.answer("Рассылка включена на каждый четверг 12:00 по МСК", reply_markup=keyboard.main)
 
 
 # любое сообщение не попавшее в другие хэндлеры
